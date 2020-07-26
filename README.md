@@ -3,6 +3,12 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/ShreyasSubhedar/geoshp)](https://goreportcard.com/report/github.com/ShreyasSubhedar/geoshp)
 - Go package for computing volumes and surface area of  high dimensional shapes.
 
+## Usage
+#### Installation
+go get github.com/jonas-p/go-shp
+#### Importing
+import "github.com/jonas-p/go-shp"
+
 ## Example: method invoke
 ```go
 import (
