@@ -5,8 +5,8 @@ func SphereArea(radius float64) float64 {
 	return 4 * Pi * radius * radius
 }
 
-// CyclinderArea is to calculate the total suraface area of cyclinder
-func CyclinderArea(radius float64, height float64) float64 {
+// CylinderArea is to calculate the total suraface area of cylinder
+func CylinderArea(radius float64, height float64) float64 {
 	return 2 * Pi * radius * (radius + height)
 }
 

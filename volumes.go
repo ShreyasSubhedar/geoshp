@@ -5,8 +5,8 @@ func SphereVol(radius float64) float64 {
 	return (4 / 3) * Pi * radius * radius * radius
 }
 
-// CyclinderVol is to calculate the volume of cyclinder
-func CyclinderVol(radius float64, height float64) float64 {
+// CylinderVol is to calculate the volume of cylinder
+func CylinderVol(radius float64, height float64) float64 {
 	return Pi * radius * radius * height
 }
 
