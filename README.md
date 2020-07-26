@@ -5,9 +5,9 @@
 
 ## Usage
 #### Installation
-go get github.com/jonas-p/go-shp
+go get github.com/ShreyasSubhedar/geoshp
 #### Importing
-import "github.com/jonas-p/go-shp"
+import "github.com/ShreyasSubhedar/geoshp"
 
 ## Example: method invoke
 ```go
