@@ -1,10 +1,10 @@
 # geoshp
-![GeoShp](https://github.com/ShreyasSubhedar/geoshp/blob/master/geoShp.jpeg)
-</br>
-[![GoDoc](https://godoc.org/github.com/ShreyasSubhedar/geoshp?status.svg)](https://godoc.org/github.com/ShreyasSubhedar/geoshp)
+![GeoShp](https://github.com/ShreyasSubhedar/geoshp/blob/master/geoShp.jpeg?raw=true)
+> Go package for computing volumes and surface area of  high dimensional shapes.
+- [![GoDoc](https://godoc.org/github.com/ShreyasSubhedar/geoshp?status.svg)](https://godoc.org/github.com/ShreyasSubhedar/geoshp)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ShreyasSubhedar/geoshp)](https://goreportcard.com/report/github.com/ShreyasSubhedar/geoshp)
 [![Build Status](https://travis-ci.org/ShreyasSubhedar/geoshp.svg?branch=master)](https://travis-ci.org/ShreyasSubhedar/geoshp)
-- Go package for computing volumes and surface area of  high dimensional shapes.
+
 
 ## Usage
 #### Installation
